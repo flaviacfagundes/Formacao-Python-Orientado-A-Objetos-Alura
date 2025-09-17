@@ -1,0 +1,6 @@
+
+DOCUMENTAÇÃO
+    https://docs.python.org/pt-br/3
+
+ARTIGO
+    https://www.alura.com.br/artigos/python
