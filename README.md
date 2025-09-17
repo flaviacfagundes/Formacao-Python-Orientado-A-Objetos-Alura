@@ -13,6 +13,11 @@ A formação tem como objetivo guiar o aprendizado da linguagem **Python** desde
 - Avançar para o consumo e desenvolvimento de **APIs** em **Python**.
 - Desenvolver projetos práticos para consolidar o aprendizado.
 
+## 💻 Tecnologia e Ferramenta Utilizada
+
+- ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+- ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
 ## 📌 Cursos da formação
 
 - [x] Python: crie a sua primeira aplicação
