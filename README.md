@@ -37,6 +37,10 @@ git clone https://github.com/flaviacfagundes/Formacao-Python-Orientado-A-Objetos
 3. Execute o arquivo Python:
 
 ~~~
+cd sabor_express/python 
+~~~
+
+~~~
 python app.py
 ~~~
 
