@@ -20,7 +20,7 @@ class Restaurante:
         print(f'{'NOME DO RESTAURANTE'.ljust(31)} | {'CATEGORIA'.ljust(36)} | {'AVALIAÇÃO'.ljust(36)} | {'STATUS'}')
         print(f'{'-------------------------------'.ljust(31)} | {'------------------------------------'.ljust(36)} | {'------------------------------------'.ljust(36)} | {'-----------------------'}')
         for restaurante in cls.restaurantes:
-            print(f'Nome: {restaurante._nome.ljust(25)} | Categoria: {restaurante._categoria.ljust(25)} | Avaliação: {restaurante.media_avaliacoes.ljust(25)} | Status: {restaurante.status}')
+            print(f'Nome: {restaurante._nome.ljust(25)} | Categoria: {restaurante._categoria.ljust(25)} | Avaliação: {str(restaurante.media_avaliacoes).ljust(25)} | Status: {restaurante.status}')
         
         print('')
 
