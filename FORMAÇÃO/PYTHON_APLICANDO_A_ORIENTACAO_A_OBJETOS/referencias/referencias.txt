@@ -1,0 +1,13 @@
+
+DOCUMENTAÇÃO
+    https://docs.python.org/pt-br/3
+
+ARTIGO
+    https://www.alura.com.br/artigos/python-poo-engenharia-dados
+
+SITE
+    https://www.w3schools.com/python
+
+DOCUMENTAÇÃO
+    https://docs.python.org/3/tutorial/classes.html
+
